@@ -2931,16 +2931,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 90.17) (xy 52.07 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ea217b2-e40d-4472-85eb-e19eeaa9a98e")
-	)
-	(wire
-		(pts
 			(xy 227.33 34.29) (xy 229.87 34.29)
 		)
 		(stroke
@@ -2951,6 +2941,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 90.17) (xy 77.47 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21d8e502-6b77-4a16-92f3-f7f7301e4e04")
+	)
+	(wire
+		(pts
 			(xy 176.53 53.34) (xy 176.53 55.88)
 		)
 		(stroke
@@ -2958,16 +2958,6 @@
 			(type default)
 		)
 		(uuid "22d5b3dc-507b-458e-986b-eb4d5e507184")
-	)
-	(wire
-		(pts
-			(xy 77.47 90.17) (xy 77.47 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23cad32a-88e1-40c3-95e1-c034131d3b22")
 	)
 	(wire
 		(pts
@@ -3041,16 +3031,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 109.22) (xy 128.27 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41898cbe-e3d4-4f92-9686-1003a1fb3c74")
-	)
-	(wire
-		(pts
 			(xy 121.92 73.66) (xy 118.11 73.66)
 		)
 		(stroke
@@ -3091,6 +3071,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 90.17) (xy 128.27 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b90b253-e22e-494e-974d-627b477c4c99")
+	)
+	(wire
+		(pts
 			(xy 92.71 55.88) (xy 96.52 55.88)
 		)
 		(stroke
@@ -3118,16 +3108,6 @@
 			(type default)
 		)
 		(uuid "59800315-1c96-41a6-9a98-9caf271ca230")
-	)
-	(wire
-		(pts
-			(xy 77.47 109.22) (xy 77.47 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e314736-58ea-47ca-a80c-c72008e0a19a")
 	)
 	(wire
 		(pts
@@ -3231,16 +3211,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 90.17) (xy 128.27 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ac0a167-fa5d-42c9-b057-8caf53e12b00")
-	)
-	(wire
-		(pts
 			(xy 71.12 73.66) (xy 67.31 73.66)
 		)
 		(stroke
@@ -3261,33 +3231,13 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 109.22) (xy 52.07 114.3)
+			(xy 52.07 90.17) (xy 52.07 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a172c714-1fda-4948-a362-894746082809")
-	)
-	(wire
-		(pts
-			(xy 52.07 100.33) (xy 52.07 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1ab2e06-8e39-4e75-90c7-a2830c2744bc")
-	)
-	(wire
-		(pts
-			(xy 102.87 100.33) (xy 102.87 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a269e343-b0eb-428a-a448-a1981c164d15")
 	)
 	(wire
 		(pts
@@ -3298,16 +3248,6 @@
 			(type default)
 		)
 		(uuid "a26aa0e6-35ad-4a15-9b92-1972b754c35e")
-	)
-	(wire
-		(pts
-			(xy 102.87 109.22) (xy 102.87 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3186b1e-dd51-45b9-97b6-e0b481d1ecab")
 	)
 	(wire
 		(pts
@@ -3351,13 +3291,13 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 100.33) (xy 77.47 101.6)
+			(xy 102.87 90.17) (xy 102.87 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c19041c2-0739-40fa-b3ac-43094de352de")
+		(uuid "c2028720-a271-450a-b71f-36137c1add66")
 	)
 	(wire
 		(pts
@@ -3521,16 +3461,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 100.33) (xy 128.27 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3d5bc98-aa9b-4efe-8818-16f55e141168")
-	)
-	(wire
-		(pts
 			(xy 191.77 55.88) (xy 176.53 55.88)
 		)
 		(stroke
@@ -3538,16 +3468,6 @@
 			(type default)
 		)
 		(uuid "f5c9f3e3-80d7-4d37-a6aa-efdbe771eeb6")
-	)
-	(wire
-		(pts
-			(xy 102.87 90.17) (xy 102.87 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7235b56-2be6-43e2-b638-f4ffd499e7d0")
 	)
 	(wire
 		(pts
@@ -4128,6 +4048,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 102.87 95.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "18fc6809-7949-4035-8e7e-8d90d5ed72d6")
+		(property "Reference" "#PWR03"
+			(at 102.87 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 102.87 100.33 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 102.87 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 102.87 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 102.87 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "80d1865a-498c-4ccf-913b-f9745790bca0")
+		)
+		(instances
+			(project "vco-4pasos-v-0-2"
+				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "4xxx:HEF4093B")
 		(at 85.09 55.88 0)
 		(unit 2)
@@ -4476,8 +4474,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 52.07 114.3 0)
+		(lib_id "Device:C_Polarized")
+		(at 128.27 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4485,31 +4483,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3b095167-2c37-4837-b2b1-f82334b3d90e")
-		(property "Reference" "#PWR01"
-			(at 52.07 120.65 0)
-			(hide yes)
+		(uuid "339b0bee-753d-4846-8ec0-e58db9d75c1c")
+		(property "Reference" "C4"
+			(at 132.08 84.2009 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "GND"
-			(at 52.07 119.38 0)
+		(property "Value" "1u"
+			(at 132.08 86.7409 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 52.07 114.3 0)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
+			(at 129.2352 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4520,7 +4518,88 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 114.3 0)
+			(at 128.27 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 128.27 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e848e032-d7f3-46e4-ba88-4cb12de38396")
+		)
+		(pin "2"
+			(uuid "5243ca65-41da-41fd-a40b-a6ae10e827b2")
+		)
+		(instances
+			(project "vco-4pasos-v-0-2"
+				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 52.07 95.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b095167-2c37-4837-b2b1-f82334b3d90e")
+		(property "Reference" "#PWR01"
+			(at 52.07 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 52.07 100.33 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4531,7 +4610,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 52.07 114.3 0)
+			(at 52.07 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4773,7 +4852,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.22u"
+		(property "Value" "1u"
 			(at 55.88 86.7409 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4827,168 +4906,6 @@
 			(project "vco-4pasos-v-0-2"
 				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
 					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 102.87 96.52 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "43a0bb3c-3a62-4291-884c-1ab99f88e395")
-		(property "Reference" "C8"
-			(at 106.68 94.3609 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1u"
-			(at 106.68 96.9009 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 103.8352 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 102.87 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e9cbdd4b-361f-4970-8ea7-a15563a7ea99")
-		)
-		(pin "2"
-			(uuid "3d154060-5661-472e-9a65-cd20efe55f34")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 102.87 86.36 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "46779781-79cb-4f31-8464-f19b836595f1")
-		(property "Reference" "C7"
-			(at 106.68 84.2009 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "3.3u"
-			(at 106.68 86.7409 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 103.8352 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 102.87 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "dbd19dec-edd9-44c4-b444-48ec02cd3cde")
-		)
-		(pin "2"
-			(uuid "053ae980-8fbd-438b-996f-7c8744bf7d93")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -5152,7 +5069,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 77.47 114.3 0)
+		(at 128.27 95.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5161,9 +5078,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "583248d2-5a18-4b93-b419-b420f05d05eb")
-		(property "Reference" "#PWR02"
-			(at 77.47 120.65 0)
+		(uuid "50c2530c-ccb5-4c7e-9540-44fa4281e02d")
+		(property "Reference" "#PWR04"
+			(at 128.27 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5174,7 +5091,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 77.47 119.38 0)
+			(at 128.27 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5184,7 +5101,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 114.3 0)
+			(at 128.27 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5195,7 +5112,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 114.3 0)
+			(at 128.27 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5206,7 +5123,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 77.47 114.3 0)
+			(at 128.27 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5217,12 +5134,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "0476d514-3ae0-4179-a6f0-c404bdb758a0")
+			(uuid "6a515ac8-786a-472e-a097-5dfc655252c5")
 		)
 		(instances
 			(project "vco-4pasos-v-0-2"
 				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "#PWR02")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -5325,7 +5242,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70f3d82b-e6e3-4760-bd1f-6bae8e46dd94")
-		(property "Reference" "C13"
+		(property "Reference" "C5"
 			(at 195.58 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5389,88 +5306,7 @@
 		(instances
 			(project "vco-4pasos-v-0-2"
 				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 128.27 86.36 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "7d4300e6-14e6-484a-9966-1d37acf65eea")
-		(property "Reference" "C10"
-			(at 132.08 84.2009 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1u"
-			(at 132.08 86.7409 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 129.2352 90.17 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 128.27 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 128.27 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b31c16b9-3aeb-46fd-beaa-15df1328e434")
-		)
-		(pin "2"
-			(uuid "782abafc-be0c-41c3-b887-b7b383397bd4")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C10")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -5596,6 +5432,84 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 77.47 95.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "82274109-5ac8-41b7-b704-10f1c8df3b0f")
+		(property "Reference" "#PWR02"
+			(at 77.47 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 77.47 100.33 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 77.47 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f8c3e045-3bc9-4975-8a3b-8db8b8b155b0")
+		)
+		(instances
+			(project "vco-4pasos-v-0-2"
+				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 201.93 34.29 0)
 		(unit 1)
 		(body_style 1)
@@ -5682,8 +5596,8 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "8fec400d-9d7e-4e6d-8274-55094cb30ab7")
-		(property "Reference" "C4"
+		(uuid "98a2fbea-5657-48a3-84cb-a087b5f920c3")
+		(property "Reference" "C2"
 			(at 81.28 84.2009 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5694,7 +5608,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.22u"
+		(property "Value" "1u"
 			(at 81.28 86.7409 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5739,96 +5653,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "7cfc2756-3276-4af2-8d54-ce37d77575bc")
+			(uuid "9dd54caf-7b74-4e4e-ac9f-0f60a9da1c33")
 		)
 		(pin "2"
-			(uuid "04dcb29c-3286-4f0e-8bd6-489070ad4e63")
+			(uuid "f20ce40c-90fa-4e8c-9199-ef97ff834a36")
 		)
 		(instances
 			(project "vco-4pasos-v-0-2"
 				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 102.87 105.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9093612a-ab85-4ab5-89bb-f289830cf495")
-		(property "Reference" "C9"
-			(at 106.68 103.2509 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.22"
-			(at 106.68 105.7909 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 103.8352 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 102.87 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "85913c95-06e8-4412-8c93-4a0932f2239a")
-		)
-		(pin "2"
-			(uuid "5865fcac-d12a-4e57-afa0-2b56e57dad06")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C9")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -6027,168 +5860,6 @@
 			(project "vco-4pasos-v-0-2"
 				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
 					(reference "RV3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 128.27 96.52 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a50ec5b6-d4b5-4199-bba9-bff25d543bf2")
-		(property "Reference" "C11"
-			(at 132.08 94.3609 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.22"
-			(at 132.08 96.9009 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 129.2352 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 128.27 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 128.27 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f535afe2-666f-4d23-ad2a-91c63e3222e2")
-		)
-		(pin "2"
-			(uuid "124a4cb9-178c-4617-b6b2-c33d91dcaeee")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 77.47 96.52 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "b0641771-367a-4f01-a369-9a9ee9e6db13")
-		(property "Reference" "C5"
-			(at 81.28 94.3609 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.2u"
-			(at 81.28 96.9009 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 78.4352 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 77.47 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 77.47 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f9004710-93d4-4b99-8a64-281ea687b009")
-		)
-		(pin "2"
-			(uuid "3e847e9b-e3b0-47d8-9471-9db57568e0c2")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -6470,7 +6141,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 52.07 96.52 0)
+		(at 102.87 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6478,9 +6149,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "cdc6706b-f687-43e0-9451-52b1571c85d1")
-		(property "Reference" "C2"
-			(at 55.88 94.3609 0)
+		(uuid "c814e453-c1b5-4411-a70a-7c578b249473")
+		(property "Reference" "C3"
+			(at 106.68 84.2009 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6490,8 +6161,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 55.88 96.9009 0)
+		(property "Value" "1u"
+			(at 106.68 86.7409 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6502,7 +6173,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 53.0352 100.33 0)
+			(at 103.8352 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6513,7 +6184,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 96.52 0)
+			(at 102.87 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6524,7 +6195,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 52.07 96.52 0)
+			(at 102.87 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6535,15 +6206,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "753f5094-c305-4253-a558-6a6b3258212e")
+			(uuid "5a80d160-b42b-4a9d-aa97-2b5f5e18ea7a")
 		)
 		(pin "2"
-			(uuid "4c86b562-d360-45ab-8c18-e6b8ad691216")
+			(uuid "096dc6a9-0a0b-413b-830f-482f69e93235")
 		)
 		(instances
 			(project "vco-4pasos-v-0-2"
 				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C2")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -6704,84 +6375,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 102.87 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dedfa87e-1bdc-454c-8eb6-038ea63e9e12")
-		(property "Reference" "#PWR03"
-			(at 102.87 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 102.87 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 102.87 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 102.87 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b42153ae-5a31-4814-a1a4-6377d30e81b4")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
 		(at 176.53 53.34 0)
 		(unit 1)
@@ -6854,249 +6447,6 @@
 			(project "vco-4pasos-v-0-2"
 				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
 					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 128.27 105.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e6a708b2-cc32-42e5-aa21-6d8db5967663")
-		(property "Reference" "C12"
-			(at 132.08 103.2509 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.47u"
-			(at 132.08 105.7909 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 129.2352 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 128.27 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 128.27 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "053cb5d3-b22c-4713-a427-51ffc09fd467")
-		)
-		(pin "2"
-			(uuid "7e6ad85f-af4a-47f2-8f91-9a4ee48cf291")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 52.07 105.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e71d22a6-0fa5-45f5-b83d-c00be9426bf9")
-		(property "Reference" "C3"
-			(at 55.88 103.2509 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.47u"
-			(at 55.88 105.7909 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 53.0352 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 52.07 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 52.07 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8d88ce9a-7f1d-4833-ac79-edba3a3a577c")
-		)
-		(pin "2"
-			(uuid "091cfe78-81c7-4574-9c7a-712c94d249cc")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 77.47 105.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e9f619de-f52f-48ed-ac65-575ea97878ae")
-		(property "Reference" "C6"
-			(at 81.28 103.2509 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7u"
-			(at 81.28 105.7909 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
-			(at 78.4352 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 77.47 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 77.47 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5db85528-9557-46d5-9199-b84e3af863eb")
-		)
-		(pin "2"
-			(uuid "02831315-61c3-4f81-8386-0d45e2833a26")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -7330,84 +6680,6 @@
 				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
 					(reference "U1")
 					(unit 3)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 128.27 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f64cca40-d38a-4f0e-baba-9dde24ea567e")
-		(property "Reference" "#PWR04"
-			(at 128.27 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 128.27 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 128.27 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 128.27 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 128.27 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3bb5db5b-654a-4bd4-a6fb-0e3927a9260e")
-		)
-		(instances
-			(project "vco-4pasos-v-0-2"
-				(path "/e3b6b2bd-18d6-4b60-b41d-e2b400c48c4f"
-					(reference "#PWR04")
-					(unit 1)
 				)
 			)
 		)
